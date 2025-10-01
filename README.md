@@ -20,6 +20,10 @@ I used the concept of a priority queue to handle this in a simple way.
 - The system always treats patients with the highest priority first.
 
 ---
+## Technologies Used
+ Programming Language: (Python / C++ / Java)  
+ Data Structures: Priority Queue .
+
 
 ## Example
 If we add these patients:
@@ -33,19 +37,4 @@ The treatment order will be:
 3. John  
 
 ---
-
-## Technologies Used
- Programming Language: (Python / C++ / Java)  
- Data Structures: Priority Queue .
- 
----Here the small example to make it more clear---
- ## Example
-Patients:
-- Ravi → Heart Attack → Priority 1  
-- Anu → Fever → Priority 2  
-- John → Cold → Priority 3  
-
-Order of treatment: Ravi → Anu → John 
- 
-
 
