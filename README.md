@@ -34,7 +34,10 @@ If we add these patients:
 The treatment order will be:  
 1. Ravi  
 2. Anu  
-3. John  
+3. John
+Sample output 
 
----
+---<img width="1920" height="1200" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/394e6b8c-c7bb-47c6-8a6b-7d310797db28" />
+
+
 
